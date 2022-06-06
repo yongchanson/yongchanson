@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongchanson)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongchanson&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongchanson&count_private=true)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongchanson&show_icons=true)
